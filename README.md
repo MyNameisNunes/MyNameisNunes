@@ -5,7 +5,7 @@
 
 <div align="center">
 
-## ☄️ A S T E R O I D S ☄️
+## 🦝  R-A-C-C-O-O-N 🦝 
 ### 🚀 NAVEGUE PELO MEU ESPAÇO PESSOAL 🚀
 
 ```
