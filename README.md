@@ -50,9 +50,8 @@ align="right">
 
 ## GitHub Analytics ███▒▒▒▒▒▒▒
 
-<p align="left">
-  <img src="https://img.shields.io/static/v1?label=Overview&message=MyNameIsNunes&color=0a1628&style=for-the-badge&logo=GitHub&logoColor=00FFFF&labelColor=0a1628" alt="GitHub Overview">
-</p>
 <img src="https://img.shields.io/static/v1?label=Overview&message=MyNameIsNunes&color=f8efd4&style=for-the-badge&logo=GitHub" alt="GitHub Overview">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?MyNameIsNunes=iuricode&show_icons=true)
 
 ---
