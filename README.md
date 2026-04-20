@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## Sobre mim
+## Sobre mim ／人◕ ‿‿ ◕人＼
 
 <p align="left">
   » Explorando novas tecnologias e desenvolvendo soluções de software.<br>
@@ -27,7 +27,7 @@
 
 ---
 
-## Minhas Skills
+## Minhas Skills ★
 
 **Aplicações e dados**
 
