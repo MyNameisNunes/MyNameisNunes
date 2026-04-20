@@ -52,6 +52,5 @@ align="right">
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=MyNameIsNunes&color=f8efd4&style=for-the-badge&logo=GitHub" alt="GitHub Overview">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?MyNameIsNunes=iuricode&show_icons=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyNameIsNunes&show_icons=true&bg_color=0a1628&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF)
 ---
