@@ -1,11 +1,42 @@
 ## Olá, meu nome é Thiago Nunes! ⊂(◉‿◉)つ
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 ## Sobre mim
 
-» Explorando novas tecnologias e desenvolvendo soluções de software.<br>
-» Estudando Desenvolvimento Software Multiplataforma na Faculdade Estadual Fatec - Jacareí<br>
-» Trabalhando como Desenvolvedor Web<br>
-» Aprendendo mais sobre React e TypeScript<br>
+<p align="left">
+  » Explorando novas tecnologias e desenvolvendo soluções de software.<br>
+  » Estudando Desenvolvimento Software Multiplataforma na Faculdade Estadual Fatec - Jacareí<br>
+  » Trabalhando como Desenvolvedor Web<br>
+  » Aprendendo mais sobre React e TypeScript
+</p>
+
+<p align="left">
+  → Linguagens: JavaScript, TypeScript, C++, HTML5, CSS
+</p>
+
+<p align="left">
+  → Ferramentas: React, Vue.js, Tailwind CSS, MySQL
+</p>
+
+<p align="left">
+  → Entre em contato comigo: 
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="#" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="#" title="WhatsApp">
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="#" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 ---
 
