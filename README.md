@@ -69,11 +69,8 @@
     </td>
     <td>
       <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=MyNameIsNunes&background=0a1628&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff&hide_border=true"
-        alt="Streak Stats"
-      />
+<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
     </td>
   </tr>
 </table>
