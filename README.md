@@ -17,9 +17,9 @@
   <a href="mailto:t.nuu2001@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-0a1628?style=flat-square&labelColor=0a1628&logo=gmail&logoColor=00FFFF" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/thhiagon/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-0a1628?style=flat-square&labelColor=0a1628&logo=Linkedin&logoColor=00FFFF" alt="LinkedIn"/>
-  </a>
+<a href="https://www.linkedin.com/in/thhiagon/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0a1628?style=flat-square&labelColor=0a1628&logo=linkedin&logoColor=00FFFF" alt="LinkedIn"/>
+</a>
   <a href="https://www.instagram.com/thi.algo_/" title="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-0a1628?style=flat-square&labelColor=0a1628&logo=instagram&logoColor=00FFFF" alt="Instagram"/>
   </a>
