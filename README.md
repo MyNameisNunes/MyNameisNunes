@@ -9,17 +9,7 @@
   » Estudando Desenvolvimento Software Multiplataforma na Faculdade Estadual Fatec - Jacareí<br>
   » Trabalhando como Desenvolvedor Web<br>
   » Aprendendo mais sobre React e TypeScript
-</p>
-
-<p align="left">
-  → Linguagens: JavaScript, TypeScript, C++, HTML5, CSS
-</p>
-
-<p align="left">
-  → Ferramentas: React, Vue.js, Tailwind CSS, MySQL
-</p>
-
-<p align="left">
+  
   → Entre em contato comigo: 
 </p>
 
